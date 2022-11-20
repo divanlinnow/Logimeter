@@ -18,3 +18,5 @@ Can you find a subset of these areas where a total of exactly 101000000 people l
 - Clone git repo
 - Navigate to Program.cs file
 - Open terminal and run the following command : `dotnet run`
+
+![My Image](logimeter_puzzle.jpg)
