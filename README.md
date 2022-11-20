@@ -10,7 +10,8 @@ Can you find a subset of these areas where a total of exactly 101000000 people l
 
 ## Prerequisites
 
-- VSCode
+- [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [VSCode](https://code.visualstudio.com/download)
 
 ## Demonstration
 
