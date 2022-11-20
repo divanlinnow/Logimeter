@@ -17,4 +17,4 @@ Can you find a subset of these areas where a total of exactly 101000000 people l
 - Install VSCode
 - Clone git repo
 - Navigate to Program.cs file
-- Open terminal and run the following command : dotnet run
+- Open terminal and run the following command : `dotnet run`
